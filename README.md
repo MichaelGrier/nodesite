@@ -13,3 +13,4 @@ This is a site that I created using bootstrap, node.js, express, mongodb and mon
 - creating a data model using Mongoose schemas
 - connecting to a database using the ExpressJS framework
 - updating content dynamically using data retrieved from a database
+- use of the Pug Template Engine
