@@ -8,3 +8,8 @@ This is a site that I created using bootstrap, node.js, express, mongodb and mon
   a collection named 'contacts'
 - run command 'npm run start' in your terminal
 - navigate to localhost:8000 in your browser
+
+### Things I Learned from this Project:
+- creating a data model using Mongoose schemas
+- connecting to a database using the ExpressJS framework
+- updating content dynamically using data retrieved from a database
